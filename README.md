@@ -6,6 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwannlesech&label=Profile%20views&color=0e75b6&style=flat" alt="erwannlesech" /> </p>
 
+Since my early years, I have been involved in various sports competitions, ranging from basketball and swimming to triathlons. The pursuit of self-improvement and the determination to excel in these areas have been guiding principles throughout my life. Today, I apply this discipline to my daily tasks in the field of computer science. Indeed, I have been passionate about computer science for a decade now. I take great pleasure in devising numerous technological solutions, whether they involve physical elements like robotics and electronics or purely digital innovations, all aimed at enhancing the daily lives of those around me. Currently in my third year as a student at EPITA Lyon, I also serve as a teaching assistant for second-year students in applied computer science and robotics.
+
+* 🌍  I'm based in Lyon, France
+* 🖥️  See my portfolio at [Coming In Future](http://linkToMyFutureWebsite.com)
+* ✉️  You can contact me at [lesech.erwann@gmail.com](mailto:lesech.erwann@gmail.com)
+* 🚀  I'm currently working on [Test](http://LinkToFutureProject.com)
+* 🧠  I'm learning C, C++, Rust, Java and Javascript
+* 🤝  I'm open to collaborating on Machine learning projects
+* ⚡  I am an active swimmer
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erwannlesech" alt="erwannlesech" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
