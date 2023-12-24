@@ -1,7 +1,7 @@
-[![MasterHead](https://dribbble.com/shots/10374655/attachments/2228615?mode=media)https://github.com/ErwannLesech/ErwannLesech/edit/main/README.md
+[![MasterHead](https://img.freepik.com/photos-premium/image-galaxie-coloree-dans-ciel-ai-generative_791316-9864.jpg?w=1380)https://github.com/ErwannLesech/ErwannLesech/edit/main/README.md
 <h1 align="center">Hi 👋, I'm Erwann "R-One" Lesech</h1>
 <h3 align="center">A passionate IT Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/V4NSR1NG2p0KeJJyr5">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/V4NSR1NG2p0KeJJyr5](https://img.freepik.com/photos-premium/image-galaxie-coloree-dans-ciel-ai-generative_791316-9864.jpg?w=1380)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwannlesech&label=Profile%20views&color=0e75b6&style=flat" alt="erwannlesech" /> </p>
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/erwannlesech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erwann lesech" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/erwann-lesech-68991b233/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erwann lesech" height="30" width="40" /></a>
 <a href="https://instagram.com/erwannlesech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erwann lesech" height="30" width="40" /></a>
 <a href="https://discord.gg/r_one_r1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="R-One#5750" height="30" width="40" /></a>
 </p>
