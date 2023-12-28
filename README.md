@@ -8,7 +8,7 @@
 
 * 🌍  I'm based in Lyon, France
 * 🧒  I am 20 yo
-* 🖥️  See my portfolio at [Currently in dev](https://erwannlesech.github.io/)
+* 🖥️  See my portfolio at [https://erwannlesech.github.io/](https://erwannlesech.github.io/)
 * ✉️  You can contact me at [lesech.erwann@gmail.com](mailto:lesech.erwann@gmail.com)
 * 🚀  I'm currently working on [Not a Public Repo](http://LinkToFutureProject.com)
 * 🧠  I'm learning C, C++, Rust, Java and Javascript
