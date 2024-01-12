@@ -29,6 +29,6 @@
 
 ### Resume:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erwannlesech&show_icons=true&locale=en" alt="erwannlesech" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=erwannlesech&show_icons=true&locale=en&theme=solarized-dark" alt="erwannlesech" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erwannlesech&show_icons=true&locale=en&layout=compact&theme=solarized-dark" alt="erwannlesech" /></p>
