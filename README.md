@@ -1,13 +1,13 @@
 ![Header](src/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Erwann "R-One" Lesech</h1>
-<h3 align="center">A passionate IT Engineer</h3>
+<h3 align="center">A passionate AI / Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="src/image_cyber.gif" loading="lazy">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwannlesech&label=Profile%20views&color=0e75b6&style=flat" alt="erwannlesech" /> </p>
 
 * 🌍  I'm based in Lyon, France
-* 🧒  I am 20 yo
+* 🧒  I am 22 yo
 * 🖥️  See my portfolio at [https://erwannlesech.github.io/](https://erwannlesech.github.io/)
 * ✉️  You can contact me at [lesech.erwann@gmail.com](mailto:lesech.erwann@gmail.com)
 * 🚀  I'm currently working on [Not a Public Repo](http://LinkToFutureProject.com)
