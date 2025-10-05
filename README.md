@@ -1,4 +1,4 @@
-![Header](src/github-header-image.png)
+![Header](src/github-header-banner.png)
 
 <h1 align="center">Hi 👋, I'm Erwann "R-One" Lesech</h1>
 <h3 align="center">A passionate AI / Data Engineer</h3>
